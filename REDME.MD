@@ -1,3 +1,3 @@
 # new project
 
-this repo created from local machine
+This repo created from local machine
