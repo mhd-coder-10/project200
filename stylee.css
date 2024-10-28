@@ -2,6 +2,5 @@
 h1 {
     color: red;
     background-color: aquamarine;
-    font-weight: 700;
-    text-decoration: none;
+    text-decoration: none;  /* feature branch */
 }
